@@ -1,0 +1,45 @@
+[submodule "CheckUser"]
+	path = CheckUser
+	url = https://github.com/wikimedia/mediawiki-extensions-CheckUser.git
+[submodule "AJAXPoll"]
+	path = AJAXPoll
+	url = https://github.com/wikimedia/mediawiki-extensions-AJAXPoll.git
+[submodule "AbuseFilter"]
+	path = AbuseFilter
+	url = https://github.com/wikimedia/mediawiki-extensions-AbuseFilter.git
+[submodule "AntiSpoof"]
+	path = AntiSpoof
+	url = https://github.com/wikimedia/mediawiki-extensions-AntiSpoof.git
+[submodule "ArticleFeedback"]
+	path = ArticleFeedback
+	url = https://github.com/wikimedia/mediawiki-extensions-ArticleFeedback.git
+[submodule "Cite"]
+	path = Cite
+	url = https://github.com/wikimedia/mediawiki-extensions-Cite.git
+[submodule "ConfirmEdit"]
+	path = ConfirmEdit
+	url = https://github.com/wikimedia/mediawiki-extensions-ConfirmEdit.git
+[submodule "Editcount"]
+	path = Editcount
+	url = https://github.com/wikimedia/mediawiki-extensions-Editcount.git
+[submodule "Gadgets"]
+	path = Gadgets
+	url = https://github.com/wikimedia/mediawiki-extensions-Gadgets.git
+[submodule "GlobalBlocking"]
+	path = GlobalBlocking
+	url = https://github.com/wikimedia/mediawiki-extensions-GlobalBlocking.git
+[submodule "GlobalUsage"]
+	path = GlobalUsage
+	url = https://github.com/wikimedia/mediawiki-extensions-GlobalUsage.git
+[submodule "ImageMap"]
+	path = ImageMap
+	url = https://github.com/wikimedia/mediawiki-extensions-ImageMap.git
+[submodule "InputBox"]
+	path = InputBox
+	url = https://github.com/wikimedia/mediawiki-extensions-InputBox.git
+[submodule "Interwiki"]
+	path = Interwiki
+	url = https://github.com/wikimedia/mediawiki-extensions-Interwiki.git
+[submodule "MultiUpload"]
+	path = MultiUpload
+	url = https://github.com/wikimedia/mediawiki-extensions-MultiUpload.git
