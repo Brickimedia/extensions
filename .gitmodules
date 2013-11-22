@@ -43,3 +43,36 @@
 [submodule "MultiUpload"]
 	path = MultiUpload
 	url = https://github.com/wikimedia/mediawiki-extensions-MultiUpload.git
+[submodule "Renameuser"]
+	path = Renameuser
+	url = git@github.com:wikimedia/mediawiki-extensions-Renameuser.git
+[submodule "PdfHandler"]
+	path = PdfHandler
+	url = git@github.com:wikimedia/mediawiki-extensions-PdfHandler.git
+[submodule "StringFunctions"]
+	path = StringFunctions
+	url = git@github.com:wikimedia/mediawiki-extensions-StringFunctionsEscaped.git
+[submodule "MediaWikiAuth"]
+	path = MediaWikiAuth
+	url = git@github.com:wikimedia/mediawiki-extensions-MediaWikiAuth.git
+[submodule "Widgets"]
+	path = Widgets
+	url = git@github.com:wikimedia/mediawiki-extensions-Widgets.git
+[submodule "SyntaxHighlight_GeSHi"]
+	path = SyntaxHighlight_GeSHi
+	url = git@github.com:wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi.git
+[submodule "UserMerge"]
+	path = UserMerge
+	url = git@github.com:wikimedia/mediawiki-extensions-UserMerge.git
+[submodule "MediaWikiChat"]
+	path = MediaWikiChat
+	url = git@github.com:Brickimedia/MediaWikiChat.git
+[submodule "NumberOfComments"]
+	path = NumberOfComments
+	url = git@github.com:Brickimedia/NumberOfComments.git
+[submodule "NewTalkGlobal"]
+	path = NewTalkGlobal
+	url = git@github.com:Brickimedia/NewTalkGlobal.git
+[submodule "GlobalContribs"]
+	path = GlobalContribs
+	url = git@github.com:Brickimedia/GlobalContribs.git
