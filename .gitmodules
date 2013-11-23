@@ -76,3 +76,24 @@
 [submodule "GlobalContribs"]
 	path = GlobalContribs
 	url = git@github.com:Brickimedia/GlobalContribs.git
+[submodule "SocialProfile"]
+	path = SocialProfile
+	url = git@github.com:Brickimedia/SocialProfile.git
+[submodule "VoteNY"]
+	path = VoteNY
+	url = git@github.com:wikimedia/mediawiki-extensions-VoteNY.git
+[submodule "SemanticMediaWiki"]
+	path = SemanticMediaWiki
+	url = git@github.com:wikimedia/mediawiki-extensions-SemanticMediaWiki.git
+[submodule "WikiArticleFeeds"]
+	path = WikiArticleFeeds
+	url = git@github.com:wikimedia/mediawiki-extensions-WikiArticleFeeds.git
+[submodule "WikiForum"]
+	path = WikiForum
+	url = git@github.com:wikimedia/mediawiki-extensions-WikiForum.git
+[submodule "googleAnalytics"]
+	path = googleAnalytics
+	url = git@github.com:wikimedia/mediawiki-extensions-googleAnalytics.git
+[submodule "WikiEditor"]
+	path = WikiEditor
+	url = git@github.com:wikimedia/mediawiki-extensions-WikiEditor.git
