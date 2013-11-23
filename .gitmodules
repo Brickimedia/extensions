@@ -97,3 +97,30 @@
 [submodule "WikiEditor"]
 	path = WikiEditor
 	url = git@github.com:wikimedia/mediawiki-extensions-WikiEditor.git
+[submodule "GlobalCssJs"]
+	path = GlobalCssJs
+	url = git@github.com:wikimedia/mediawiki-extensions-GlobalCssJs.git
+[submodule "Validator"]
+	path = Validator
+	url = git@github.com:wikimedia/mediawiki-extensions-Validator.git
+[submodule "BlogPage"]
+	path = BlogPage
+	url = git@github.com:wikimedia/mediawiki-extensions-BlogPage.git
+[submodule "Comments"]
+	path = Comments
+	url = git@github.com:wikimedia/mediawiki-extensions-Comments.git
+[submodule "Nuke"]
+	path = Nuke
+	url = git@github.com:wikimedia/mediawiki-extensions-Nuke.git
+[submodule "ParserFunctions"]
+	path = ParserFunctions
+	url = git@github.com:wikimedia/mediawiki-extensions-ParserFunctions.git
+[submodule "ProtectSite"]
+	path = ProtectSite
+	url = git@github.com:wikimedia/mediawiki-extensions-ProtectSite.git
+[submodule "DPLForum"]
+	path = DPLForum
+	url = git@github.com:wikimedia/mediawiki-extensions-DPLforum.git
+[submodule "HTMLTags"]
+	path = HTMLTags
+	url = git@github.com:wikimedia/mediawiki-extensions-HTMLTags.git
