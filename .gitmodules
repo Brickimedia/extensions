@@ -124,3 +124,6 @@
 [submodule "HTMLTags"]
 	path = HTMLTags
 	url = git@github.com:wikimedia/mediawiki-extensions-HTMLTags.git
+[submodule "CSS"]
+        path = CSS
+        url = git@github.com:wikimedia/mediawiki-extensions-CSS.git
