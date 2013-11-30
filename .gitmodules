@@ -45,85 +45,82 @@
 	url = https://github.com/wikimedia/mediawiki-extensions-MultiUpload.git
 [submodule "Renameuser"]
 	path = Renameuser
-	url = git@github.com:wikimedia/mediawiki-extensions-Renameuser.git
+	url = https://github.com/wikimedia/mediawiki-extensions-Renameuser.git
 [submodule "PdfHandler"]
 	path = PdfHandler
-	url = git@github.com:wikimedia/mediawiki-extensions-PdfHandler.git
+	url = https://github.com/wikimedia/mediawiki-extensions-PdfHandler.git
 [submodule "StringFunctions"]
 	path = StringFunctions
-	url = git@github.com:wikimedia/mediawiki-extensions-StringFunctionsEscaped.git
+	url = https://github.com/wikimedia/mediawiki-extensions-StringFunctionsEscaped.git
 [submodule "MediaWikiAuth"]
 	path = MediaWikiAuth
-	url = git@github.com:wikimedia/mediawiki-extensions-MediaWikiAuth.git
+	url = https://github.com/wikimedia/mediawiki-extensions-MediaWikiAuth.git
 [submodule "Widgets"]
 	path = Widgets
-	url = git@github.com:wikimedia/mediawiki-extensions-Widgets.git
+	url = https://github.com/wikimedia/mediawiki-extensions-Widgets.git
 [submodule "SyntaxHighlight_GeSHi"]
 	path = SyntaxHighlight_GeSHi
-	url = git@github.com:wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi.git
+	url = https://github.com/wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi.git
 [submodule "UserMerge"]
 	path = UserMerge
-	url = git@github.com:wikimedia/mediawiki-extensions-UserMerge.git
+	url = https://github.com/wikimedia/mediawiki-extensions-UserMerge.git
 [submodule "MediaWikiChat"]
 	path = MediaWikiChat
-	url = git@github.com:Brickimedia/MediaWikiChat.git
+	url = https://github.com/Brickimedia/MediaWikiChat.git
 [submodule "NumberOfComments"]
 	path = NumberOfComments
-	url = git@github.com:Brickimedia/NumberOfComments.git
+	url = https://github.com/Brickimedia/NumberOfComments.git
 [submodule "NewTalkGlobal"]
 	path = NewTalkGlobal
-	url = git@github.com:Brickimedia/NewTalkGlobal.git
+	url = https://github.com/Brickimedia/NewTalkGlobal.git
 [submodule "GlobalContribs"]
 	path = GlobalContribs
-	url = git@github.com:Brickimedia/GlobalContribs.git
+	url = https://github.com/Brickimedia/GlobalContribs.git
 [submodule "SocialProfile"]
 	path = SocialProfile
-	url = git@github.com:Brickimedia/SocialProfile.git
+	url = https://github.com/Brickimedia/SocialProfile.git
 [submodule "VoteNY"]
 	path = VoteNY
-	url = git@github.com:wikimedia/mediawiki-extensions-VoteNY.git
+	url = https://github.com/wikimedia/mediawiki-extensions-VoteNY.git
 [submodule "SemanticMediaWiki"]
 	path = SemanticMediaWiki
-	url = git@github.com:wikimedia/mediawiki-extensions-SemanticMediaWiki.git
+	url = https://github.com/wikimedia/mediawiki-extensions-SemanticMediaWiki.git
 [submodule "WikiArticleFeeds"]
 	path = WikiArticleFeeds
-	url = git@github.com:wikimedia/mediawiki-extensions-WikiArticleFeeds.git
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiArticleFeeds.git
 [submodule "WikiForum"]
 	path = WikiForum
-	url = git@github.com:wikimedia/mediawiki-extensions-WikiForum.git
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiForum.git
 [submodule "googleAnalytics"]
 	path = googleAnalytics
-	url = git@github.com:wikimedia/mediawiki-extensions-googleAnalytics.git
+	url = https://github.com/wikimedia/mediawiki-extensions-googleAnalytics.git
 [submodule "WikiEditor"]
 	path = WikiEditor
-	url = git@github.com:wikimedia/mediawiki-extensions-WikiEditor.git
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiEditor.git
 [submodule "GlobalCssJs"]
 	path = GlobalCssJs
-	url = git@github.com:wikimedia/mediawiki-extensions-GlobalCssJs.git
+	url = https://github.com/wikimedia/mediawiki-extensions-GlobalCssJs.git
 [submodule "Validator"]
 	path = Validator
-	url = git@github.com:wikimedia/mediawiki-extensions-Validator.git
+	url = https://github.com/wikimedia/mediawiki-extensions-Validator.git
 [submodule "BlogPage"]
 	path = BlogPage
 	url = https://github.com/wikimedia/mediawiki-extensions-BlogPage.git
 [submodule "Comments"]
 	path = Comments
-	url = git@github.com:wikimedia/mediawiki-extensions-Comments.git
+	url = https://github.com/wikimedia/mediawiki-extensions-Comments.git
 [submodule "Nuke"]
 	path = Nuke
-	url = git@github.com:wikimedia/mediawiki-extensions-Nuke.git
+	url = https://github.com/wikimedia/mediawiki-extensions-Nuke.git
 [submodule "ParserFunctions"]
 	path = ParserFunctions
-	url = git@github.com:wikimedia/mediawiki-extensions-ParserFunctions.git
+	url = https://github.com/wikimedia/mediawiki-extensions-ParserFunctions.git
 [submodule "ProtectSite"]
 	path = ProtectSite
-	url = git@github.com:wikimedia/mediawiki-extensions-ProtectSite.git
+	url = https://github.com/wikimedia/mediawiki-extensions-ProtectSite.git
 [submodule "DPLForum"]
 	path = DPLForum
-	url = git@github.com:wikimedia/mediawiki-extensions-DPLforum.git
+	url = https://github.com/wikimedia/mediawiki-extensions-DPLforum.git
 [submodule "HTMLTags"]
 	path = HTMLTags
-	url = git@github.com:wikimedia/mediawiki-extensions-HTMLTags.git
-[submodule "CSS"]
-        path = CSS
-        url = git@github.com:wikimedia/mediawiki-extensions-CSS.git
+	url = https://github.com/wikimedia/mediawiki-extensions-HTMLTags.git
