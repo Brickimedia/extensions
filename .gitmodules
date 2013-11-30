@@ -105,7 +105,7 @@
 	url = git@github.com:wikimedia/mediawiki-extensions-Validator.git
 [submodule "BlogPage"]
 	path = BlogPage
-	url = git@github.com:wikimedia/mediawiki-extensions-BlogPage.git
+	url = https://github.com/wikimedia/mediawiki-extensions-BlogPage.git
 [submodule "Comments"]
 	path = Comments
 	url = git@github.com:wikimedia/mediawiki-extensions-Comments.git
