@@ -1,6 +1,6 @@
 <?php
 /**
- * Internationalisation for myextension
+ * Internationalisation for Special:Donate
  *
  * @file
  * @ingroup Extensions
