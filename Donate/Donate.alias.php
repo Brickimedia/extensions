@@ -1,23 +1,23 @@
 <?php
 /**
- * Aliases for chat
+ * Special page aliases for the Donate extension
  *
  * @file
  * @ingroup Extensions
  */
- 
-$specialPageAliases = array();
- 
+
+$aliases = array();
+
 /** English
  * @author George Barnick
  */
-$specialPageAliases[ 'en' ] = array(
-        'Donate' => array( 'Donate', 'Donate' ),
+$aliases['en'] = array(
+	'Donate' => array( 'Donate', 'Donate' ),
 );
- 
+
 /** Deutsch
  * @author George Barnick
  */
-$specialPageAliases[ 'de' ] = array(
-        'Donate' => array( 'Spenden', 'Spenden' ),
+$aliases['de'] = array(
+	'Donate' => array( 'Spenden', 'Spenden' ),
 );
