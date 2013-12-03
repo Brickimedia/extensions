@@ -1,0 +1,17 @@
+#donate-callout {
+	/* @embed */
+	background: url(donate-callout.png) 0 0 no-repeat;
+	padding-top: 15px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 30px;
+	max-width: 400px;
+}
+
+#content td {
+	vertical-align: middle;
+}
+
+#content table {
+	margin-top: -10px;
+}

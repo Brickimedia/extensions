@@ -17,6 +17,14 @@ $wgExtensionCredits['specialpage'][] = array(
 	'version' => '2.3.1',
 );
 
+// Register the CSS with ResourceLoader
+$wgResourceModules['ext.donate'] = array(
+	'styles' => 'donate.css',
+	'localBasePath' => __DIR__,
+	'remoteExtPath' => 'Donate',
+	'position' => 'top' // needed to avoid the nasty Flash of Unstyled Content
+);
+
 $wgAutoloadClasses['SpecialDonate'] = __DIR__ . '/SpecialDonate.php'; # Location of the SpecialMyExtension class (Tell MediaWiki to load this file)
 $wgExtensionMessagesFiles['Donate'] = __DIR__ . '/Donate.i18n.php'; # Location of a messages file (Tell MediaWiki to load this file)
 $wgExtensionMessagesFiles['DonateAlias'] = __DIR__ . '/Donate.alias.php'; # Location of an aliases file (Tell MediaWiki to load this file)
