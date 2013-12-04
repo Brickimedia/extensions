@@ -1,16 +1,16 @@
 <?php
 /**
- * Aliases for randomwiki
+ * Aliases for RandomWiki
  *
  * @file
  * @ingroup Extensions
  */
- 
-$specialPageAliases = array();
- 
+
+$aliases = array();
+
 /** English
  * @author George Barnick
  */
-$specialPageAliases[ 'en' ] = array(
-        'MyExtension' => array( 'RandomWiki', 'Random Wiki' ),
+$aliases['en'] = array(
+	'RandomWiki' => array( 'RandomWiki', 'Random Wiki' ),
 );
