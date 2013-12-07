@@ -124,3 +124,6 @@
 [submodule "HTMLTags"]
 	path = HTMLTags
 	url = https://github.com/wikimedia/mediawiki-extensions-HTMLTags.git
+[submodule "ArticleFeedbackv5"]
+	path = ArticleFeedbackv5
+	url = https://github.com/wikimedia/mediawiki-extensions-ArticleFeedbackv5.git
