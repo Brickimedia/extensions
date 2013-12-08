@@ -26,7 +26,7 @@ class SpecialDonate extends SpecialPage {
 		$template = new SpecialDonateUITemplate;
 		$output->addTemplate( $template );
 
-		$wikitext = '<div style="margin-top:-45px;">{{MediaWiki:Donation-page-text}}</div>';
+		$wikitext = '<div style="margin-top:-45px;">{{int:Donation-page-text}}</div>';
 		$output->addWikiText( $wikitext );
 	}
 }
