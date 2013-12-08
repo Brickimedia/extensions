@@ -127,3 +127,6 @@
 [submodule "ArticleFeedbackv5"]
 	path = ArticleFeedbackv5
 	url = https://github.com/wikimedia/mediawiki-extensions-ArticleFeedbackv5.git
+[submodule "EmailCapture"]
+	path = EmailCapture
+	url = https://github.com/wikimedia/mediawiki-extensions-EmailCapture.git
