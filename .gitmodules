@@ -130,3 +130,6 @@
 [submodule "EmailCapture"]
 	path = EmailCapture
 	url = https://github.com/wikimedia/mediawiki-extensions-EmailCapture.git
+[submodule "Lockdown"]
+	path = Lockdown
+	url = https://github.com/wikimedia/mediawiki-extensions-Lockdown.git
