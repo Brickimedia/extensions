@@ -35,7 +35,7 @@ $messages['de'] = array(
 	'donate' => 'Spenden',
 	'donate-callout-click' => 'Klicken Sie hier, um zu spenden',
 	'donate-callout-details' => 'Eine gültige Kreditkarte oder PayPal-Konto erforderlich ist. Nach Klick auf den Button werden Sie zu einer gesicherten PayPal Zahlungsformular weitergeleitet.',
-	'donate-desc' => 'Benutzerdefinierte spenden Erweiterung entwickelt von [[User:George (Brickimedia)|George]]. Exklusiv für Brickimedia Association, und zahlt an [[User:Adrian (Brickimedia)|Adrian]]\'s (Server-Inhaber) PayPal-Konto. Erfahren Sie mehr über [[Donations/de|Spenden]].'
+	'donate-desc' => 'Benutzerdefinierte spenden Erweiterung entwickelt von [[User:George (Brickimedia)|George]]. Exklusiv für Brickimedia Association, und zahlt an [[User:Adrian (Brickimedia)|Adrian]]\'s (Server-Inhaber) PayPal-Konto. Erfahren Sie mehr über [[Donations/de|Spenden]].',
 	'donate-paypal-alt' => 'PayPal - Der sicherer, einfacher Weg, um online zu bezahlen!',
 );
 
