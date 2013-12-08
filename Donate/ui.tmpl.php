@@ -27,7 +27,7 @@ class SpecialDonateUITemplate extends QuickTemplate {
 			</form>
 			</td>
 			<td>
-				<div id="donate-callout"><big><b><?php echo wfMessage( 'donate-callout-details' )->escaped() ?></b></big><br /><?php echo wfMessage( 'donate-callout-details' )->parse() ?></div>
+				<div id="donate-callout"><big><b><?php echo wfMessage( 'donate-callout-click' )->escaped() ?></b></big><br /><?php echo wfMessage( 'donate-callout-details' )->parse() ?></div>
 			</td>
 		</tr>
 	</tbody>
