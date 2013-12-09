@@ -14,8 +14,8 @@ $messages = array();
 $messages['en'] = array(
 	'donate' => 'Donate', // Important! This is the string that appears on Special:SpecialPages
 	'donate-callout-click' => 'Click here to donate',
-	'donate-callout-details' => 'A valid credit card or PayPal account is required. Upon clicking the button, you will be redirected to a secured PayPal payment form.',
-	'donate-desc' => "Custom donate extension developed by [[User:George (Brickimedia)|George]]. Exclusive to Brickimedia Association, and pays to [[User:Adrian (Brickimedia)|Adrian]]'s (server owner) PayPal account. Learn more about [[Donations]].",
+	'donate-callout-details' => 'A valid credit card or PayPal account is required. Upon clicking the button, you will be redirected to a secure PayPal payment form.',
+	'donate-desc' => 'Custom donate extension developed by [[User:George (Brickimedia)|George]]. Exclusive to Brickimedia Association, and pays to [[User:Adrian (Brickimedia)|Adrian]]\'s (server owner) PayPal account. Learn more about [[Donations]].',
 	'donate-paypal-alt' => 'PayPal - The safer, easier way to pay online!',
 );
 
@@ -33,6 +33,10 @@ $messages['qqq'] = array(
  */
 $messages['de'] = array(
 	'donate' => 'Spenden',
+	'donate-callout-click' => 'Klicken Sie hier, um zu spenden',
+	'donate-callout-details' => 'Eine gültige Kreditkarte oder PayPal-Konto erforderlich ist. Nach Klick auf den Button werden Sie zu einer gesicherten PayPal Zahlungsformular weitergeleitet.',
+	'donate-desc' => 'Benutzerdefinierte spenden Erweiterung entwickelt von [[User:George (Brickimedia)|George]]. Exklusiv für Brickimedia Association, und zahlt an [[User:Adrian (Brickimedia)|Adrian]]\'s (Server-Inhaber) PayPal-Konto. Erfahren Sie mehr über [[Donations/de|Spenden]].',
+	'donate-paypal-alt' => 'PayPal - Der sicherer, einfacher Weg, um online zu bezahlen!',
 );
 
 /** Danish (dansk)
