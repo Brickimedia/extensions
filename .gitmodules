@@ -103,9 +103,6 @@
 [submodule "Validator"]
 	path = Validator
 	url = https://github.com/wikimedia/mediawiki-extensions-Validator.git
-[submodule "BlogPage"]
-	path = BlogPage
-	url = https://github.com/wikimedia/mediawiki-extensions-BlogPage.git
 [submodule "Comments"]
 	path = Comments
 	url = https://github.com/wikimedia/mediawiki-extensions-Comments.git
