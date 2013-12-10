@@ -49,7 +49,7 @@ class SpecialRandomWiki extends SpecialPage {
 				'en.brickimedia.org',
 				'customs.brickimedia.org',
 				'meta.brickimedia.org',
-				'stories.brickimedia.org'
+				'stories.brickimedia.org',
 				'cuusoo.brickimedia.org'
 			);
 		} elseif ( $_SERVER['HTTP_HOST'] == 'stories.brickimedia.org' ) {
