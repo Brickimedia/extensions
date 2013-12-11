@@ -103,9 +103,6 @@
 [submodule "Validator"]
 	path = Validator
 	url = https://github.com/wikimedia/mediawiki-extensions-Validator.git
-[submodule "Comments"]
-	path = Comments
-	url = https://github.com/wikimedia/mediawiki-extensions-Comments.git
 [submodule "Nuke"]
 	path = Nuke
 	url = https://github.com/wikimedia/mediawiki-extensions-Nuke.git
@@ -130,3 +127,6 @@
 [submodule "Lockdown"]
 	path = Lockdown
 	url = https://github.com/wikimedia/mediawiki-extensions-Lockdown.git
+[submodule "CSS"]
+	path = CSS
+	url = https://github.com/wikimedia/mediawiki-extensions-CSS.git
