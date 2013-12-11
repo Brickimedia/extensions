@@ -130,3 +130,6 @@
 [submodule "CSS"]
 	path = CSS
 	url = https://github.com/wikimedia/mediawiki-extensions-CSS.git
+[submodule "Comments"]
+	path = Comments
+	url = https://github.com/Brickimedia/Comments.git
