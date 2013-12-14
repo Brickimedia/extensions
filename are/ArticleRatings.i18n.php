@@ -1,7 +1,9 @@
 <?php
 
 $messages = array();
-
+/** English
+ * @author Adam Carter
+ */
 $messages['en'] = array(
 	'changerating' => 'ChangeRating',
 	'massratings' => 'MassRatings',
@@ -10,7 +12,9 @@ $messages['en'] = array(
 	'logentry-ratings-change' => '$1 changed the rating of $3 to $4',
 	'ratings-desc' => 'A complex interface for rating pages'
 );
-
+/** English
+ * @author Codyn329
+ */
 $message['vi'] = array(
 	'changerating' => 'Đánh giá sự thay đổi',
 	'massratings' => 'số đông đánh giá',
