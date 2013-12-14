@@ -12,7 +12,7 @@ $messages['en'] = array(
 	'logentry-ratings-change' => '$1 changed the rating of $3 to $4',
 	'ratings-desc' => 'A complex interface for rating pages'
 );
-/** English
+/** Vietnamese/Việt
  * @author Codyn329
  */
 $message['vi'] = array(
