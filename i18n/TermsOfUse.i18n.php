@@ -24,3 +24,7 @@ $messages['es'] = array(
         'termsofuse' => 'Términos de uso',
         'termsofusepage' => 'm:Terms of Use'
 );
+$messages['vi'] = array(
+        'termsofuse' => 'Điều khoản sử dụng',
+        'termsofuspage' => 'm:Terms of Use'
+);
