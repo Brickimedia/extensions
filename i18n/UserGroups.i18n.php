@@ -1,6 +1,9 @@
 <?php
 /* Internationalisation file for Brickimedia-specific user groups */
 $messages = array();
+/** English
+ * @author George Barnick
+ */
 $messages['en'] = array(
         'group-sysadmin' => 'System Administrators',
         'grouppage-sysadmin' => 'm:System Administrators',
