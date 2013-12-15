@@ -62,3 +62,14 @@ $messages['fi'] = array(
 	'donate-callout-details' => 'Voimassaoleva luottokortti tai PayPal-tunnus vaaditaan. Painiketta napsauttamalla päädyt turvattuun PayPal-maksulomakkeeseen.',
 	'donate-paypal-alt' => 'PayPal - Turvallisempi ja helpompi tapa maksaa verkossa!',
 );
+
+/** Vietnamese/Việt
+ * @author Codyn329
+ */
+$messages['vi'] = array(
+	'donate' => 'Tặng',
+	'donate-callout-click' => 'Nhấp chuột để tặng!',
+	'donate-callout-details' => 'Một thẻ tín dụng hợp lệ hoặc tài khoản PayPal là bắt buộc. Sau khi nhấn vào nút, bạn sẽ được chuyển hướng đến một hình thức thanh toán PayPal an toàn.',
+	'donate-desc' => 'Tùy chỉnh tặng phần mở rộng được phát triển bởi [[User:George (Brickimedia) | George]]. Độc quyền để cho Hiệp hội Brickimedia, và trả tiền để [[User:Adrian (Brickimedia)|Adrian]] \'s (chủ sở hữu máy chủ) tài khoản PayPal. Tìm hiểu thêm về [[Donate/vi|Tài trợ]].',
+	'donate-paypal-alt' => 'PayPal - Các an toàn hơn, cách dễ dàng hơn để thanh toán trực tuyến!',
+);

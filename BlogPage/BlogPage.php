@@ -207,16 +207,16 @@ class BlogPage extends Article {
 		
 		$author_user_id = $this->authors[0]['user_id'];
 
-		if (is_file('/var/www/wiki/images/avatars/'.$author_user_id.'_m.png')) {
-			$auth_avatar = '/images/avatars/'.$author_user_id.'_m.png';
-		} elseif (is_file('/var/www/wiki/images/avatars/'.$author_user_id.'_m.jpg')) {
-			$auth_avatar = '/images/avatars/'.$author_user_id.'_m.jpg';
-		} elseif (is_file('/var/www/wiki/images/avatars/'.$author_user_id.'_m.gif')) {
-			$auth_avatar = '/images/avatars/'.$author_user_id.'_m.gif';
+		if (is_file('/var/www/images/avatars/'.$author_user_id.'_m.png')) {
+			$auth_avatar = '/avatars/'.$author_user_id.'_m.png';
+		} elseif (is_file('/var/www/images/avatars/'.$author_user_id.'_m.jpg')) {
+			$auth_avatar = '/avatars/'.$author_user_id.'_m.jpg';
+		} elseif (is_file('/var/www/images/avatars/'.$author_user_id.'_m.gif')) {
+			$auth_avatar = '/avatars/'.$author_user_id.'_m.gif';
 		} else {
-			$auth_avatar = '/images/avatars/default_m.gif';
+			$auth_avatar = '/avatars/default_m.gif';
 		}
-		$output = '<img src="http://meta.brickimedia.org' . $auth_avatar . '" style="margin-right:10px;float:left;" /><div class="blog-byline">' . wfMsg( 'blog-by' ) . ' ';
+		$output = '<img src="http://images.brickimedia.org' . $auth_avatar . '" style="margin-right:10px;float:left;" /><div class="blog-byline">' . wfMsg( 'blog-by' ) . ' ';
 
 		$authors = '';
 		foreach( $this->authors as $author ) {
