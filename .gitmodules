@@ -133,3 +133,6 @@
 [submodule "Comments"]
 	path = Comments
 	url = https://github.com/Brickimedia/Comments.git
+[submodule "WikiLove"]
+	path = WikiLove
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiLove.git
