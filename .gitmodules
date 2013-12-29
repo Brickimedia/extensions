@@ -145,3 +145,6 @@
 [submodule "CodeEditor"]
 	path = CodeEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-CodeEditor.git
+[submodule "Quantcast"]
+	path = Quantcast
+	url = https://github.com/wikimedia/mediawiki-extensions-Quantcast
