@@ -148,3 +148,6 @@
 [submodule "Quantcast"]
 	path = Quantcast
 	url = https://github.com/wikimedia/mediawiki-extensions-Quantcast
+[submodule "Phalanx"]
+	path = Phalanx
+	url = https://github.com/wikimedia/mediawiki-extensions-Phalanx.git
