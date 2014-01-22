@@ -151,3 +151,6 @@
 [submodule "Phalanx"]
 	path = Phalanx
 	url = https://github.com/wikimedia/mediawiki-extensions-Phalanx.git
+[submodule "VisualEditor"]
+	path = VisualEditor
+	url = https://github.com/wikimedia/mediawiki-extensions-VisualEditor.git
