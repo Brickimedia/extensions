@@ -1,24 +1,22 @@
 <?php
 
 # Not an entry point
-if(!defined('MEDIAWIKI')) {
+if( !defined( 'MEDIAWIKI' ) ) {
 	die('This file is a MediaWiki extension, it is not a valid entry point');
 }
 
 # Define stuff
-$dir = dirname(__FILE__) . '/';
-global $ratingsJSONPaths;
-global $defaultRatingsJSONPath;
+$ratingsJSONPaths = array();
+$defaultRatingsJSONPath = '';
 
 function areDoPaths(){
 	global $wgTitle;
-	global $dir;
 	global $defaultRatingsJSONPath;
 	global $ratingsJSONPaths;
-	$dir = dirname(__FILE__) . '/';
-	
-	$ns = $wgTitle -> getNamespace();
-	if( in_array($ns, $ratingsJSONPaths) ){
+	$dir = __DIR__ . '/';
+
+	$ns = $wgTitle->getNamespace();
+	if( in_array( $ns, $ratingsJSONPaths ) ) {
 		$finalJSONPath = $dir . $ratingsJSONPaths[$ns];
 	} else {
 		$finalJSONPath = $dir . $defaultRatingsJSONPath;
@@ -27,10 +25,10 @@ function areDoPaths(){
 }
 
 # Check tables and stuff
-function areAddColumn(){
-	$dbw = wfGetDB(DB_MASTER);
-	$q = $dbw -> tableName('ratings');
-	$success = $dbw -> query(
+function areAddColumn() {
+	$dbw = wfGetDB( DB_MASTER );
+	$q = $dbw->tableName( 'ratings' );
+	$success = $dbw->query(
 		'CREATE TABLE ' . $q . '
 		(
 		ratings_title varchar(255),
@@ -43,19 +41,21 @@ function areAddColumn(){
 }
 //$wgExtensionFunctions[] = 'areAddColumn';
 
-# Load Hooks
-$wgAutoloadClasses['AreHooks'] = $dir . 'Hooks.php';
-$wgHooks['SkinTemplateContentActions'][] = 'AreHooks::addRatingTab';
-$wgHooks['TitleMoveComplete'][] = 'AreHooks::onTitleMoveComplete';
+# Load Classes
+$wgAutoloadClasses['RatingData'] = __DIR__ . '/RatingDataClass.php';
 
+# Load Hooks
+$wgAutoloadClasses['AreHooks'] = __DIR__ . '/Hooks.php';
+$wgHooks['BaseTemplateToolbox'][] = 'AreHooks::onBaseTemplateToolbox';
+$wgHooks['TitleMoveComplete'][] = 'AreHooks::onTitleMoveComplete';
 
 # Set up <rating />
 $wgHooks['ParserFirstCallInit'][] = 'wfRatingParserInit';
 
-include($dir . "RatingTag.php");
- 
-function wfRatingParserInit(Parser $parser) {
-        $parser->setHook('rating', 'wfRatingRender');
+include( __DIR__ . "/RatingTag.php" );
+
+function wfRatingParserInit( Parser $parser ) {
+        $parser->setHook( 'rating', 'wfRatingRender' );
         return true;
 }
 
@@ -63,7 +63,7 @@ function wfRatingParserInit(Parser $parser) {
 $wgExtensionCredits['other'][] = array(
         'path' => __FILE__,
         'name' => 'ArticleRating',
-        'author' => '[[meta:User:UltrasonicNXT (Brickimedia)|Adam Carter]]',
+        'author' => 'UltrasonicNXT/Adam Carter',
         'url' => 'https://www.mediawiki.org/wiki/Extension:ArticleRatings',
         'descriptionmsg' => 'ratings-desc',
         'version' => '1.3',
@@ -73,19 +73,22 @@ $wgExtensionCredits['other'][] = array(
 $wgSpecialPageGroups['ChangeRating'] = 'other';
 $wgSpecialPageGroups['MassRatings'] = 'other';
 
-# Set up Special:ChangeRating 
-$wgAutoloadClasses['SpecialChangeRating'] = $dir . 'SpecialChangeRating.php';
+# Set up Special:ChangeRating
+$wgAutoloadClasses['SpecialChangeRating'] = __DIR__ . '/SpecialChangeRating.php';
 $wgSpecialPages['ChangeRating'] = 'SpecialChangeRating';
 
 # Set up Special:MassRatings
-$wgAutoloadClasses['SpecialMassRatings'] = $dir . 'SpecialMassRatings.php';
+$wgAutoloadClasses['SpecialMassRatings'] = __DIR__ . '/SpecialMassRatings.php';
 $wgSpecialPages['MassRatings'] = 'SpecialMassRatings';
 
-#i18n
-$wgExtensionMessagesFiles['ArticleRatings'] = $dir . 'ArticleRatings.i18n.php';
+# i18n
+$wgExtensionMessagesFiles['ArticleRatings'] = __DIR__ . '/ArticleRatings.i18n.php';
 
-#Logs
+# Logs
 $wgLogTypes[] = 'ratings';
 $wgLogActionsHandlers['ratings/*'] = 'LogFormatter';
+
+# Groups
+$wgGroupPermissions['qcg']['changeRating'] = true;
 
 ?>

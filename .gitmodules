@@ -157,3 +157,6 @@
 [submodule "Tabber"]
 	path = Tabber
 	url = https://github.com/wikimedia/mediawiki-extensions-Tabber.git
+[submodule "ARE"]
+	path = ARE
+	url = https://github.com/Brickimedia/ARE.git
