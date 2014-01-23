@@ -154,3 +154,6 @@
 [submodule "VisualEditor"]
 	path = VisualEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-VisualEditor.git
+[submodule "Tabber"]
+	path = Tabber
+	url = https://github.com/wikimedia/mediawiki-extensions-Tabber.git
