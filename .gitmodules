@@ -160,3 +160,6 @@
 [submodule "ARE"]
 	path = ARE
 	url = https://github.com/Brickimedia/ARE.git
+[submodule "BlogPage"]
+	path = BlogPage
+	url = git@github.com:Brickimedia/BlogPage.git
