@@ -136,9 +136,6 @@
 [submodule "WikiLove"]
 	path = WikiLove
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiLove.git
-[submodule "mediawiki-extensions-MultimediaViewer"]
-	path = mediawiki-extensions-MultimediaViewer
-	url = https://github.com/wikimedia/mediawiki-extensions-MultimediaViewer.git
 [submodule "MultimediaViewer"]
 	path = MultimediaViewer
 	url = https://github.com/wikimedia/mediawiki-extensions-MultimediaViewer.git
@@ -160,17 +157,3 @@
 [submodule "ARE"]
 	path = ARE
 	url = https://github.com/Brickimedia/ARE.git
-
-[submodule "BlogPage"]
-
-	path = BlogPage
-
-	url = https://github.com/Brickimedia/BlogPage.git
-[submodule "mediawiki-extensions-UploadWizard"]
-	path = mediawiki-extensions-UploadWizard
-	url = https://github.com/wikimedia/mediawiki-extensions-UploadWizard.git
-	branch = REL1_22
-[submodule "UploadWizard"]
-	path = UploadWizard
-	url = https://github.com/wikimedia/mediawiki-extensions-UploadWizard.git
-	branch = REL1_22
