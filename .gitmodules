@@ -166,3 +166,7 @@
 	path = BlogPage
 
 	url = https://github.com/Brickimedia/BlogPage.git
+[submodule "mediawiki-extensions-UploadWizard"]
+	path = mediawiki-extensions-UploadWizard
+	url = https://github.com/wikimedia/mediawiki-extensions-UploadWizard.git
+	branch = REL1_22
