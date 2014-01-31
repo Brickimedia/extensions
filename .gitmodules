@@ -162,4 +162,4 @@
 	url = https://github.com/Brickimedia/BlogPage.git
 [submodule "GlobalPreferences"]
 	path = GlobalPreferences
-	url = https://git.wikimedia.org/git/mediawiki/extensions/GlobalPreferences.git
+	url = https://github.com/wikimedia/mediawiki-extensions-GlobalPreferences.git
