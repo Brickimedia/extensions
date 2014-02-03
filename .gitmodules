@@ -163,3 +163,6 @@
 [submodule "GlobalPreferences"]
 	path = GlobalPreferences
 	url = https://github.com/wikimedia/mediawiki-extensions-GlobalPreferences.git
+[submodule "USERNAME"]
+	path = USERNAME
+	url = https://github.com/Brickimedia/USERNAME.git
