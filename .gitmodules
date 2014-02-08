@@ -166,3 +166,6 @@
 [submodule "USERNAME"]
 	path = USERNAME
 	url = https://github.com/Brickimedia/USERNAME.git
+[submodule "BricksetSnippet"]
+	path = BricksetSnippet
+	url = https://github.com/Brickimedia/BricksetSnippet.git
