@@ -13,4 +13,7 @@ $messages['en'] = array(
         'group-board-member' => 'board member',
         'group-chatmod' => 'Chat Moderators',
         'group-chatmod-member' => 'chat moderator',
+        'group-bag' => 'Bot Approval Group',
+        'group-bag-member' => 'BAG member',
+        'grouppage-bag' => '{{ns:4}}:Bot Approval Group'
 );
