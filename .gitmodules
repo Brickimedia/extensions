@@ -169,3 +169,6 @@
 [submodule "BricksetSnippet"]
 	path = BricksetSnippet
 	url = https://github.com/Brickimedia/BricksetSnippet.git
+[submodule "Snippet"]
+	path = Snippet
+	url = https://github.com/Brickimedia/Snippet.git
