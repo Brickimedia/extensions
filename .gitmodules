@@ -176,3 +176,6 @@
 	path = BetaFeatures
 	url = https://github.com/wikimedia/mediawiki-extensions-BetaFeatures
 	branch = REL1_22
+[submodule "timeline"]
+	path = timeline
+	url = https://github.com/wikimedia/mediawiki-extensions-timeline
