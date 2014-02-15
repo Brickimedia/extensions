@@ -172,3 +172,7 @@
 [submodule "Snippet"]
 	path = Snippet
 	url = https://github.com/Brickimedia/Snippet.git
+[submodule "BetaFeatures"]
+	path = BetaFeatures
+	url = https://github.com/wikimedia/mediawiki-extensions-BetaFeatures
+	branch = REL1_22
