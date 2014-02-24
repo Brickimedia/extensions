@@ -179,3 +179,11 @@
 [submodule "timeline"]
 	path = timeline
 	url = https://github.com/wikimedia/mediawiki-extensions-timeline
+[submodule "Translate"]
+	path = Translate
+	url = https://github.com/wikimedia/mediawiki-extensions-Translate
+	branch = REL1_22
+[submodule "Wikibase"]
+	path = Wikibase
+	url = https://github.com/wikimedia/mediawiki-extensions-Wikibase
+	branch = REL1_22
