@@ -187,3 +187,7 @@
 	path = Wikibase
 	url = https://github.com/wikimedia/mediawiki-extensions-Wikibase
 	branch = REL1_22
+[submodule "UniversalLanguageSelector"]
+	path = UniversalLanguageSelector
+	url = https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector
+	branch = REL1_22
