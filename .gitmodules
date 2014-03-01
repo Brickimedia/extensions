@@ -191,3 +191,9 @@
 	path = UniversalLanguageSelector
 	url = https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector
 	branch = REL1_22
+[submodule "mediawiki-extensions-Echo"]
+	path = mediawiki-extensions-Echo
+	url = https://github.com/wikimedia/mediawiki-extensions-Echo.git
+[submodule "Echo"]
+	path = Echo
+	url = https://github.com/wikimedia/mediawiki-extensions-Echo.git
