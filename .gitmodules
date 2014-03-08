@@ -201,3 +201,11 @@
 	path = WikibaseDataModel
 	url = https://github.com/wikimedia/mediawiki-extensions-WikibaseDataModel
 	branch = REL1_22
+[submodule "Diff"]
+	path = Diff
+	url = https://github.com/wikimedia/mediawiki-extensions-Diff
+	branch = REL1_22
+[submodule "DataValues"]
+	path = DataValues
+	url = https://github.com/wikimedia/mediawiki-extensions-DataValues
+	branch = REL1_22
