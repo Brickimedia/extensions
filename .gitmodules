@@ -209,3 +209,7 @@
 	path = DataValues
 	url = https://github.com/wikimedia/mediawiki-extensions-DataValues
 	branch = REL1_22
+[submodule "DataTypes"]
+	path = DataTypes
+	url = https://github.com/wikimedia/mediawiki-extensions-DataTypes
+	branch = REL1_22
