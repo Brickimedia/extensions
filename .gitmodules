@@ -197,3 +197,7 @@
 [submodule "Echo"]
 	path = Echo
 	url = https://github.com/wikimedia/mediawiki-extensions-Echo.git
+[submodule "WikibaseDataModel"]
+	path = WikibaseDataModel
+	url = https://github.com/wikimedia/mediawiki-extensions-WikibaseDataModel
+	branch = REL1_22
