@@ -213,3 +213,7 @@
 	path = DataTypes
 	url = https://github.com/wikimedia/mediawiki-extensions-DataTypes
 	branch = REL1_22
+[submodule "SiteMatrix"]
+	path = SiteMatrix
+	url = https://github.com/wikimedia/mediawiki-extensions-SiteMatrix.git
+	branch = REL1_22
