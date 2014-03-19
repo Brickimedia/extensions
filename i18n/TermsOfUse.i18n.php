@@ -28,13 +28,6 @@ $messages['pl'] = array(
         'termsofuse' => 'Zasady użytkowania',
         'termsofusepage' => 'm:Terms of Use'
 );
-/** Japanese/日本の
- * @author George Barnick
- */
-$messages['jp'] = array(
-        'termsofuse' => '利用規約',
-        'termsofusepage' => 'm:Terms of Use'
-);
 /** Spanish/Español
  * @author George Barnick
  */
