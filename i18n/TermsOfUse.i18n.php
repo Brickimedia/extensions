@@ -40,5 +40,12 @@ $messages['es'] = array(
  */
 $messages['vi'] = array(
         'termsofuse' => 'Điều khoản sử dụng',
-        'termsofuspage' => 'm:Terms of Use'
+        'termsofusepage' => 'm:Terms of Use'
+);
+/** Dutch (Nederlands)
+ * @author George Barnick
+ */
+$messages['nl'] = array(
+        'termsofuse' => 'Gebruiksvoorwaarden',
+        'termsofusepage' => 'm:Terms of Use'
 );
