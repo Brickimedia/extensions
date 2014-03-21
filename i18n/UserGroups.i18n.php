@@ -6,14 +6,14 @@ $messages = array();
  */
 $messages['en'] = array(
         'group-sysadmin' => 'System Administrators',
-        'grouppage-sysadmin' => 'm:System Administrators',
+        'grouppage-sysadmin' => 'm:Special:MyLanguage/System Administrators',
         'group-sysadmin-member' => 'system administrator',
         'group-board' => 'Brickimedia Board',
-        'grouppage-board' => 'm:Board',
+        'grouppage-board' => 'm:Special:MyLanguage/Board',
         'group-board-member' => 'board member',
         'group-chatmod' => 'Chat Moderators',
         'group-chatmod-member' => 'chat moderator',
         'group-bag' => 'Bot Approval Group',
         'group-bag-member' => 'BAG member',
-        'grouppage-bag' => '{{ns:4}}:Bot Approval Group'
+        'grouppage-bag' => '{{ns:Project}}:Bot Approval Group'
 );
