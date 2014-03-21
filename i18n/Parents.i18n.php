@@ -6,5 +6,5 @@ $messages = array();
  */
 $messages['en'] = array(
         'parents' => 'Parents',
-        'parentspage' => 'Project:Parents'
+        'parentspage' => '{{ns:Project}}:Parents'
 );
