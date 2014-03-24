@@ -220,3 +220,6 @@
 [submodule "Thanks"]
 	path = Thanks
 	url = https://github.com/wikimedia/mediawiki-extensions-Thanks.git
+[submodule "Answers"]
+	path = Answers
+	url = https://github.com/Brickimedia/Answers.git
