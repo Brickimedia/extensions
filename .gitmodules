@@ -223,3 +223,6 @@
 [submodule "Answers"]
 	path = Answers
 	url = https://github.com/Brickimedia/Answers.git
+[submodule "Monaco"]
+	path = Monaco
+	url = https://github.com/dantman/monaco-port.git
