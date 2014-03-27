@@ -15,5 +15,8 @@ $messages['en'] = array(
         'group-chatmod-member' => 'chat moderator',
         'group-bag' => 'Bot Approval Group',
         'group-bag-member' => 'BAG member',
-        'grouppage-bag' => '{{ns:Project}}:Bot Approval Group'
+        'grouppage-bag' => '{{ns:Project}}:Bot Approval Group',
+	'group-swsysop-member' => 'small wiki adminstrator',
+	'group-swsysop' => 'Small Wiki Administrators',
+	'grouppage-swsysop' => 'm:Special:MyLanguage/Small Wiki Administrators'
 );
