@@ -1,51 +1,66 @@
 <?php
+
 $messages = array();
+
 /** English
  * @author George Barnick
  */
 $messages['en'] = array(
-        'termsofuse' => 'Terms of Use',
-        'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
+	'termsofuse' => 'Terms of Use',
+	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
 );
-/** French/Français
- * @author George Barnick
- */
-$messages['fr'] = array(
-        'termsofuse' => 'Conditions d\'utilisation',
-        'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
-);
-/** German/Deutsch
+
+/** German (Deutsch)
  * @author George Barnick
  */
 $messages['de'] = array(
-        'termsofuse' => 'Nutzungsbedingungen',
-        'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
+	'termsofuse' => 'Nutzungsbedingungen',
+	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
 );
-/** Polish/Polski
- * @author George Barnick
- */
-$messages['pl'] = array(
-        'termsofuse' => 'Zasady użytkowania',
-        'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
-);
-/** Spanish/Español
+
+/** Spanish (español)
  * @author George Barnick
  */
 $messages['es'] = array(
-        'termsofuse' => 'Términos de uso',
-        'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
+	'termsofuse' => 'Términos de uso',
+	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
 );
-/** Vietnamese/Việt
- * @author Codyn329
+
+/** Finnish (suomi)
+ * @author Jack Phoenix <jack@countervandalism.net>
  */
-$messages['vi'] = array(
-        'termsofuse' => 'Điều khoản sử dụng',
-        'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
+$messages['fi'] = array(
+	'termsofuse' => 'Käyttöehdot',
 );
+
+/** French (français)
+ * @author George Barnick
+ */
+$messages['fr'] = array(
+	'termsofuse' => 'Conditions d\'utilisation',
+	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
+);
+
 /** Dutch (Nederlands)
  * @author George Barnick
  */
 $messages['nl'] = array(
-        'termsofuse' => 'Gebruiksvoorwaarden',
-        'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
+	'termsofuse' => 'Gebruiksvoorwaarden',
+	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
+);
+
+/** Polish (polski)
+ * @author George Barnick
+ */
+$messages['pl'] = array(
+	'termsofuse' => 'Zasady użytkowania',
+	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
+);
+
+/** Vietnamese (Tiếng Việt)
+ * @author Codyn329
+ */
+$messages['vi'] = array(
+	'termsofuse' => 'Điều khoản sử dụng',
+	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
 );
