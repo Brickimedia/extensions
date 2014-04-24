@@ -136,9 +136,6 @@
 [submodule "WikiLove"]
 	path = WikiLove
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiLove.git
-[submodule "MultimediaViewer"]
-	path = MultimediaViewer
-	url = https://github.com/wikimedia/mediawiki-extensions-MultimediaViewer.git
 [submodule "CodeEditor"]
 	path = CodeEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-CodeEditor.git
