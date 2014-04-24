@@ -223,3 +223,7 @@
 [submodule "Monaco"]
 	path = Monaco
 	url = https://github.com/dantman/monaco-port.git
+[submodule "MultimediaViewer"]
+	path = MultimediaViewer
+	url = https://github.com/wikimedia/mediawiki-extensions-MultimediaViewer
+	branch = wmf/1.23wmf15
