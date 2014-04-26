@@ -182,8 +182,8 @@
 	branch = REL1_22
 [submodule "Wikibase"]
 	path = Wikibase
-	url = https://github.com/wikimedia/mediawiki-extensions-Wikibase
-	branch = REL1_22
+	url = https://github.com/wikimedia/mediawiki-extensions-Wikibase.git
+	branch = mw1.23-wmf15
 [submodule "UniversalLanguageSelector"]
 	path = UniversalLanguageSelector
 	url = https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector
