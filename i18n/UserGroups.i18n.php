@@ -19,7 +19,10 @@ $messages['en'] = array(
 	'grouppage-bag' => '{{ns:Project}}:Bot Approval Group',
 	'group-swsysop-member' => 'small wiki adminstrator',
 	'group-swsysop' => 'Small Wiki Administrators',
-	'grouppage-swsysop' => 'm:Special:MyLanguage/Small Wiki Administrators'
+	'grouppage-swsysop' => 'm:Special:MyLanguage/Small Wiki Administrators',
+	'group-functionary' => 'Functionaries',
+	'group-functionary-member' => 'functionary',
+	'grouppage-functionary' => '{{ns:Project}}:Functionary'
 );
 
 /** Finnish (suomi)
