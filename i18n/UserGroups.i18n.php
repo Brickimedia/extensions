@@ -22,7 +22,7 @@ $messages['en'] = array(
 	'grouppage-swsysop' => 'm:Special:MyLanguage/Small Wiki Administrators',
 	'group-functionary' => 'Functionaries',
 	'group-functionary-member' => 'functionary',
-	'grouppage-functionary' => '{{ns:Project}}:Functionary'
+	'grouppage-functionary' => '{{ns:Project}}:Functionaries'
 );
 
 /** Finnish (suomi)
