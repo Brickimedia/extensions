@@ -272,3 +272,6 @@
 	path = MultimediaViewer
 	url = https://github.com/wikimedia/mediawiki-extensions-MultimediaViewer
 	branch = REL1_24
+[submodule "AjaxLogin"]
+	path = AjaxLogin
+	url = https://github.com/wikimedia/mediawiki-extensions-AjaxLogin.git
