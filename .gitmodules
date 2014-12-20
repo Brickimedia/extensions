@@ -173,7 +173,7 @@
 	branch = REL1_24
 [submodule "Comments"]
 	path = Comments
-	url = https://github.com/Brickimedia/Comments.git
+	url = https://github.com/wikimedia/mediawiki-extensions-Comments.git
 	branch = REL1_24
 [submodule "WikiLove"]
 	path = WikiLove
@@ -200,7 +200,7 @@
 	url = https://github.com/Brickimedia/ARE.git
 [submodule "BlogPage"]
 	path = BlogPage
-	url = https://github.com/Brickimedia/BlogPage.git
+	url = https://github.com/wikimedia/mediawiki-extensions-BlogPage.git
 [submodule "GlobalPreferences"]
 	path = GlobalPreferences
 	url = https://github.com/wikimedia/mediawiki-extensions-GlobalPreferences.git
