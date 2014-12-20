@@ -275,3 +275,6 @@
 [submodule "AjaxLogin"]
 	path = AjaxLogin
 	url = https://github.com/wikimedia/mediawiki-extensions-AjaxLogin.git
+[submodule "GlobalUserrights"]
+	path = GlobalUserrights
+	url = https://github.com/wikimedia/mediawiki-extensions-GlobalUserrights.git
