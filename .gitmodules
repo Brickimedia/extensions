@@ -96,7 +96,7 @@
 	url = https://github.com/wikimedia/mediawiki-extensions-googleAnalytics.git
 [submodule "WikiEditor"]
 	path = WikiEditor
-	url = https://github.com/wikimedia/mediawiki-extensions-WikiEditor
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiEditor.git
 [submodule "GlobalCssJs"]
 	path = GlobalCssJs
 	url = https://github.com/wikimedia/mediawiki-extensions-GlobalCssJs.git
@@ -147,7 +147,7 @@
 	url = https://github.com/wikimedia/mediawiki-extensions-Phalanx.git
 [submodule "VisualEditor"]
 	path = VisualEditor
-	url = https://github.com/wikimedia/mediawiki-extensions-VisualEditor
+	url = https://github.com/wikimedia/mediawiki-extensions-VisualEditor.git
 [submodule "Tabber"]
 	path = Tabber
 	url = https://github.com/wikimedia/mediawiki-extensions-Tabber.git
