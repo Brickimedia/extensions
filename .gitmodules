@@ -1,72 +1,95 @@
 [submodule "CheckUser"]
 	path = CheckUser
 	url = https://github.com/wikimedia/mediawiki-extensions-CheckUser.git
+	branch = REL1_24
 [submodule "AJAXPoll"]
 	path = AJAXPoll
 	url = https://github.com/wikimedia/mediawiki-extensions-AJAXPoll.git
+	branch = REL1_24
 [submodule "AbuseFilter"]
 	path = AbuseFilter
 	url = https://github.com/wikimedia/mediawiki-extensions-AbuseFilter.git
+	branch = REL1_24
 [submodule "AntiSpoof"]
 	path = AntiSpoof
 	url = https://github.com/wikimedia/mediawiki-extensions-AntiSpoof.git
+	branch = REL1_24
 [submodule "ArticleFeedback"]
 	path = ArticleFeedback
 	url = https://github.com/wikimedia/mediawiki-extensions-ArticleFeedback.git
+	branch = REL1_24
 [submodule "Cite"]
 	path = Cite
 	url = https://github.com/wikimedia/mediawiki-extensions-Cite.git
+	branch = REL1_24
 [submodule "ConfirmEdit"]
 	path = ConfirmEdit
 	url = https://github.com/wikimedia/mediawiki-extensions-ConfirmEdit.git
+	branch = REL1_24
 [submodule "Editcount"]
 	path = Editcount
 	url = https://github.com/wikimedia/mediawiki-extensions-Editcount.git
+	branch = REL1_24
 [submodule "Gadgets"]
 	path = Gadgets
 	url = https://github.com/wikimedia/mediawiki-extensions-Gadgets.git
+	branch = REL1_24
 [submodule "GlobalBlocking"]
 	path = GlobalBlocking
 	url = https://github.com/wikimedia/mediawiki-extensions-GlobalBlocking.git
+	branch = REL1_24
 [submodule "GlobalUsage"]
 	path = GlobalUsage
 	url = https://github.com/wikimedia/mediawiki-extensions-GlobalUsage.git
+	branch = REL1_24
 [submodule "ImageMap"]
 	path = ImageMap
 	url = https://github.com/wikimedia/mediawiki-extensions-ImageMap.git
+	branch = REL1_24
 [submodule "InputBox"]
 	path = InputBox
 	url = https://github.com/wikimedia/mediawiki-extensions-InputBox.git
+	branch = REL1_24
 [submodule "Interwiki"]
 	path = Interwiki
 	url = https://github.com/wikimedia/mediawiki-extensions-Interwiki.git
+	branch = REL1_24
 [submodule "MultiUpload"]
 	path = MultiUpload
 	url = https://github.com/wikimedia/mediawiki-extensions-MultiUpload.git
+	branch = REL1_24
 [submodule "Renameuser"]
 	path = Renameuser
 	url = https://github.com/wikimedia/mediawiki-extensions-Renameuser.git
+	branch = REL1_24
 [submodule "PdfHandler"]
 	path = PdfHandler
 	url = https://github.com/wikimedia/mediawiki-extensions-PdfHandler.git
+	branch = REL1_24
 [submodule "StringFunctions"]
 	path = StringFunctions
 	url = https://github.com/wikimedia/mediawiki-extensions-StringFunctionsEscaped.git
+	branch = REL1_24
 [submodule "MediaWikiAuth"]
 	path = MediaWikiAuth
 	url = https://github.com/wikimedia/mediawiki-extensions-MediaWikiAuth.git
+	branch = REL1_24
 [submodule "Widgets"]
 	path = Widgets
 	url = https://github.com/wikimedia/mediawiki-extensions-Widgets.git
+	branch = REL1_24
 [submodule "SyntaxHighlight_GeSHi"]
 	path = SyntaxHighlight_GeSHi
 	url = https://github.com/wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi.git
+	branch = REL1_24
 [submodule "UserMerge"]
 	path = UserMerge
 	url = https://github.com/wikimedia/mediawiki-extensions-UserMerge.git
+	branch = REL1_24
 [submodule "MediaWikiChat"]
 	path = MediaWikiChat
 	url = https://github.com/wikimedia/mediawiki-extensions-MediaWikiChat.git
+	branch = REL1_24
 [submodule "NumberOfComments"]
 	path = NumberOfComments
 	url = https://github.com/Brickimedia/NumberOfComments.git
@@ -78,88 +101,110 @@
 	url = https://github.com/Brickimedia/GlobalContribs.git
 [submodule "SocialProfile"]
 	path = SocialProfile
-	url = https://github.com/Brickimedia/SocialProfile.git
+	url = https://github.com/wikimedia/mediawiki-extensions-SocialProfile.git
+	branch = REL1_24
 [submodule "VoteNY"]
 	path = VoteNY
 	url = https://github.com/wikimedia/mediawiki-extensions-VoteNY.git
+	branch = REL1_24
 [submodule "SemanticMediaWiki"]
 	path = SemanticMediaWiki
 	url = https://github.com/wikimedia/mediawiki-extensions-SemanticMediaWiki.git
+	branch = REL1_24
 [submodule "WikiArticleFeeds"]
 	path = WikiArticleFeeds
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiArticleFeeds.git
+	branch = REL1_24
 [submodule "WikiForum"]
 	path = WikiForum
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiForum.git
+	branch = REL1_24
 [submodule "googleAnalytics"]
 	path = googleAnalytics
 	url = https://github.com/wikimedia/mediawiki-extensions-googleAnalytics.git
+	branch = REL1_24
 [submodule "WikiEditor"]
 	path = WikiEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiEditor.git
+	branch = REL1_24
 [submodule "GlobalCssJs"]
 	path = GlobalCssJs
 	url = https://github.com/wikimedia/mediawiki-extensions-GlobalCssJs.git
+	branch = REL1_24
 [submodule "Validator"]
 	path = Validator
 	url = https://github.com/wikimedia/mediawiki-extensions-Validator.git
+	branch = REL1_24
 [submodule "Nuke"]
 	path = Nuke
 	url = https://github.com/wikimedia/mediawiki-extensions-Nuke.git
+	branch = REL1_24
 [submodule "ParserFunctions"]
 	path = ParserFunctions
 	url = https://github.com/wikimedia/mediawiki-extensions-ParserFunctions.git
+	branch = REL1_24
 [submodule "ProtectSite"]
 	path = ProtectSite
 	url = https://github.com/wikimedia/mediawiki-extensions-ProtectSite.git
+	branch = REL1_24
 [submodule "DPLForum"]
 	path = DPLForum
 	url = https://github.com/wikimedia/mediawiki-extensions-DPLforum.git
+	branch = REL1_24
 [submodule "HTMLTags"]
 	path = HTMLTags
 	url = https://github.com/wikimedia/mediawiki-extensions-HTMLTags.git
+	branch = REL1_24
 [submodule "ArticleFeedbackv5"]
 	path = ArticleFeedbackv5
 	url = https://github.com/wikimedia/mediawiki-extensions-ArticleFeedbackv5.git
+	branch = REL1_24
 [submodule "EmailCapture"]
 	path = EmailCapture
 	url = https://github.com/wikimedia/mediawiki-extensions-EmailCapture.git
+	branch = REL1_24
 [submodule "Lockdown"]
 	path = Lockdown
 	url = https://github.com/wikimedia/mediawiki-extensions-Lockdown.git
+	branch = REL1_24
 [submodule "CSS"]
 	path = CSS
 	url = https://github.com/wikimedia/mediawiki-extensions-CSS.git
+	branch = REL1_24
 [submodule "Comments"]
 	path = Comments
-	url = https://github.com/Brickimedia/Comments.git
+	url = https://github.com/wikimedia/mediawiki-extensions-Comments.git
+	branch = REL1_24
 [submodule "WikiLove"]
 	path = WikiLove
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiLove.git
+	branch = REL1_24
 [submodule "CodeEditor"]
 	path = CodeEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-CodeEditor.git
+	branch = REL1_24
 [submodule "Quantcast"]
 	path = Quantcast
 	url = https://github.com/wikimedia/mediawiki-extensions-Quantcast
-[submodule "Phalanx"]
-	path = Phalanx
-	url = https://github.com/wikimedia/mediawiki-extensions-Phalanx.git
+	branch = REL1_24
 [submodule "VisualEditor"]
 	path = VisualEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-VisualEditor.git
+	branch = REL1_24
 [submodule "Tabber"]
 	path = Tabber
 	url = https://github.com/wikimedia/mediawiki-extensions-Tabber.git
+	branch = REL1_24
 [submodule "ARE"]
 	path = ARE
 	url = https://github.com/Brickimedia/ARE.git
 [submodule "BlogPage"]
 	path = BlogPage
-	url = https://github.com/Brickimedia/BlogPage.git
+	url = https://github.com/wikimedia/mediawiki-extensions-BlogPage.git
 [submodule "GlobalPreferences"]
 	path = GlobalPreferences
 	url = https://github.com/wikimedia/mediawiki-extensions-GlobalPreferences.git
+	branch = REL1_24
 [submodule "USERNAME"]
 	path = USERNAME
 	url = https://github.com/Brickimedia/USERNAME.git
@@ -172,51 +217,51 @@
 [submodule "BetaFeatures"]
 	path = BetaFeatures
 	url = https://github.com/wikimedia/mediawiki-extensions-BetaFeatures
-	branch = REL1_22
+	branch = REL1_24
 [submodule "timeline"]
 	path = timeline
 	url = https://github.com/wikimedia/mediawiki-extensions-timeline
+	branch = REL1_24
 [submodule "Translate"]
 	path = Translate
 	url = https://github.com/wikimedia/mediawiki-extensions-Translate
-	branch = REL1_22
+	branch = REL1_24
 [submodule "Wikibase"]
 	path = Wikibase
 	url = https://github.com/wikimedia/mediawiki-extensions-Wikibase.git
-	branch = mw1.23-wmf15
+	branch = REL1_24
 [submodule "UniversalLanguageSelector"]
 	path = UniversalLanguageSelector
 	url = https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector
-	branch = REL1_22
-[submodule "mediawiki-extensions-Echo"]
-	path = mediawiki-extensions-Echo
-	url = https://github.com/wikimedia/mediawiki-extensions-Echo.git
+	branch = REL1_24
 [submodule "Echo"]
 	path = Echo
 	url = https://github.com/wikimedia/mediawiki-extensions-Echo.git
+	branch = REL1_24
 [submodule "WikibaseDataModel"]
 	path = WikibaseDataModel
 	url = https://github.com/wikimedia/mediawiki-extensions-WikibaseDataModel
-	branch = REL1_22
+	branch = REL1_24
 [submodule "Diff"]
 	path = Diff
 	url = https://github.com/wikimedia/mediawiki-extensions-Diff
-	branch = REL1_22
+	branch = REL1_24
 [submodule "DataValues"]
 	path = DataValues
 	url = https://github.com/wikimedia/mediawiki-extensions-DataValues
-	branch = REL1_22
+	branch = REL1_24
 [submodule "DataTypes"]
 	path = DataTypes
 	url = https://github.com/wikimedia/mediawiki-extensions-DataTypes
-	branch = REL1_22
+	branch = REL1_24
 [submodule "SiteMatrix"]
 	path = SiteMatrix
 	url = https://github.com/wikimedia/mediawiki-extensions-SiteMatrix.git
-	branch = REL1_22
+	branch = REL1_24
 [submodule "Thanks"]
 	path = Thanks
 	url = https://github.com/wikimedia/mediawiki-extensions-Thanks.git
+	branch = REL1_24
 [submodule "Answers"]
 	path = Answers
 	url = https://github.com/Brickimedia/Answers.git
@@ -226,4 +271,10 @@
 [submodule "MultimediaViewer"]
 	path = MultimediaViewer
 	url = https://github.com/wikimedia/mediawiki-extensions-MultimediaViewer
-	branch = wmf/1.23wmf15
+	branch = REL1_24
+[submodule "AjaxLogin"]
+	path = AjaxLogin
+	url = https://github.com/wikimedia/mediawiki-extensions-AjaxLogin.git
+[submodule "GlobalUserrights"]
+	path = GlobalUserrights
+	url = https://github.com/wikimedia/mediawiki-extensions-GlobalUserrights.git
