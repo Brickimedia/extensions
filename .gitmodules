@@ -278,3 +278,6 @@
 [submodule "GlobalUserrights"]
 	path = GlobalUserrights
 	url = https://github.com/wikimedia/mediawiki-extensions-GlobalUserrights.git
+[submodule "PageInCat"]
+	path = PageInCat
+	url = https://github.com/wikimedia/mediawiki-extensions-PageInCat.git
