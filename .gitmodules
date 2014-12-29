@@ -89,7 +89,7 @@
 [submodule "MediaWikiChat"]
 	path = MediaWikiChat
 	url = https://github.com/wikimedia/mediawiki-extensions-MediaWikiChat.git
-	branch = REL1_24
+	branch = master
 [submodule "NumberOfComments"]
 	path = NumberOfComments
 	url = https://github.com/Brickimedia/NumberOfComments.git
