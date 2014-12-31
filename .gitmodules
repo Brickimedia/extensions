@@ -101,7 +101,7 @@
 [submodule "SocialProfile"]
 	path = SocialProfile
 	url = https://github.com/wikimedia/mediawiki-extensions-SocialProfile.git
-	branch = REL1_24
+	branch = master
 [submodule "VoteNY"]
 	path = VoteNY
 	url = https://github.com/wikimedia/mediawiki-extensions-VoteNY.git
