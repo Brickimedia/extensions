@@ -280,3 +280,6 @@
 [submodule "PageInCat"]
 	path = PageInCat
 	url = https://github.com/wikimedia/mediawiki-extensions-PageInCat.git
+[submodule "NumerAlpha"]
+	path = NumerAlpha
+	url = https://github.com/wikimedia/mediawiki-extensions-NumerAlpha.git
