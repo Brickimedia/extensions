@@ -117,7 +117,6 @@
 [submodule "WikiForum"]
 	path = WikiForum
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiForum.git
-	branch = REL1_24
 [submodule "googleAnalytics"]
 	path = googleAnalytics
 	url = https://github.com/wikimedia/mediawiki-extensions-googleAnalytics.git
