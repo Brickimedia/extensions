@@ -171,7 +171,7 @@
 	branch = REL1_24
 [submodule "Comments"]
 	path = Comments
-	url = https://github.com/wikimedia/mediawiki-extensions-Comments.git
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Comments
 [submodule "WikiLove"]
 	path = WikiLove
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiLove.git
