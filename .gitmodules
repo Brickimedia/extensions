@@ -49,7 +49,6 @@
 [submodule "InputBox"]
 	path = InputBox
 	url = https://github.com/wikimedia/mediawiki-extensions-InputBox.git
-	branch = REL1_24
 [submodule "Interwiki"]
 	path = Interwiki
 	url = https://github.com/wikimedia/mediawiki-extensions-Interwiki.git
