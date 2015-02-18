@@ -29,7 +29,6 @@
 [submodule "Editcount"]
 	path = Editcount
 	url = https://github.com/wikimedia/mediawiki-extensions-Editcount.git
-	branch = REL1_24
 [submodule "Gadgets"]
 	path = Gadgets
 	url = https://github.com/wikimedia/mediawiki-extensions-Gadgets.git
