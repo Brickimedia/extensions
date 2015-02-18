@@ -181,7 +181,6 @@
 [submodule "Quantcast"]
 	path = Quantcast
 	url = https://github.com/wikimedia/mediawiki-extensions-Quantcast
-	branch = REL1_24
 [submodule "VisualEditor"]
 	path = VisualEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-VisualEditor.git
