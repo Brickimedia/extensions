@@ -6,25 +6,25 @@
  * @ingroup Extensions
  */
 
-$aliases = array();
+$specialPageAliases = array();
 
 /** English
  * @author George Barnick
  */
-$aliases['en'] = array(
+$specialPageAliases['en'] = array(
 	'Donate' => array( 'Donate' ),
 );
 
 /** German (Deutsch)
  * @author George Barnick
  */
-$aliases['de'] = array(
+$specialPageAliases['de'] = array(
 	'Donate' => array( 'Spenden' ),
 );
 
 /** Finnish (suomi)
  * @author Jack Phoenix <jack@countervandalism.net>
  */
-$aliases['fi'] = array(
+$specialPageAliases['fi'] = array(
 	'Donate' => array( 'Lahjoita' ),
 );
