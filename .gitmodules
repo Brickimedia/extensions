@@ -278,3 +278,6 @@
 [submodule "NumerAlpha"]
 	path = NumerAlpha
 	url = https://github.com/wikimedia/mediawiki-extensions-NumerAlpha.git
+[submodule "EmbedVideo"]
+	path = EmbedVideo
+	url = https://github.com/Alexia/mediawiki-embedvideo
