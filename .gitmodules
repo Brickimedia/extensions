@@ -55,7 +55,6 @@
 [submodule "MultiUpload"]
 	path = MultiUpload
 	url = https://github.com/wikimedia/mediawiki-extensions-MultiUpload.git
-	branch = REL1_24
 [submodule "Renameuser"]
 	path = Renameuser
 	url = https://github.com/wikimedia/mediawiki-extensions-Renameuser.git
