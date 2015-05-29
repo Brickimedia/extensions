@@ -280,3 +280,6 @@
 [submodule "EmbedVideo"]
 	path = EmbedVideo
 	url = https://github.com/Alexia/mediawiki-embedvideo.git
+[submodule "SpamBlacklist"]
+	path = SpamBlacklist
+	url = https://github.com/wikimedia/mediawiki-extensions-SpamBlacklist.git
