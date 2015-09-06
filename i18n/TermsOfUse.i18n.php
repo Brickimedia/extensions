@@ -15,7 +15,6 @@ $messages['en'] = array(
  */
 $messages['de'] = array(
 	'termsofuse' => 'Nutzungsbedingungen',
-	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
 );
 
 /** Spanish (español)
@@ -23,7 +22,6 @@ $messages['de'] = array(
  */
 $messages['es'] = array(
 	'termsofuse' => 'Términos de uso',
-	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
 );
 
 /** Finnish (suomi)
@@ -38,7 +36,6 @@ $messages['fi'] = array(
  */
 $messages['fr'] = array(
 	'termsofuse' => 'Conditions d\'utilisation',
-	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
 );
 
 /** Dutch (Nederlands)
@@ -46,7 +43,6 @@ $messages['fr'] = array(
  */
 $messages['nl'] = array(
 	'termsofuse' => 'Gebruiksvoorwaarden',
-	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
 );
 
 /** Polish (polski)
@@ -54,7 +50,6 @@ $messages['nl'] = array(
  */
 $messages['pl'] = array(
 	'termsofuse' => 'Zasady użytkowania',
-	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
 );
 
 /** Vietnamese (Tiếng Việt)
@@ -62,5 +57,4 @@ $messages['pl'] = array(
  */
 $messages['vi'] = array(
 	'termsofuse' => 'Điều khoản sử dụng',
-	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
 );
