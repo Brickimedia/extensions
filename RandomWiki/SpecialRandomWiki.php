@@ -24,49 +24,36 @@ class SpecialRandomWiki extends SpecialPage {
 			$urls = array(
 				'customs.brickimedia.org',
 				'meta.brickimedia.org',
-				'lmbw.brickimedia.org',
 				'stories.brickimedia.org',
-				'cuusoo.brickimedia.org'
+				'ideas.brickimedia.org'
 			);
 		} elseif ( $_SERVER['HTTP_HOST'] == 'customs.brickimedia.org' ) {
 			$urls = array(
 				'en.brickimedia.org',
 				'meta.brickimedia.org',
-				'lmbw.brickimedia.org',
 				'stories.brickimedia.org',
-				'cuusoo.brickimedia.org'
+				'ideas.brickimedia.org'
 			);
 		} elseif ( $_SERVER['HTTP_HOST'] == 'meta.brickimedia.org' ) {
 			$urls = array(
 				'en.brickimedia.org',
 				'customs.brickimedia.org',
-				'lmbw.brickimedia.org',
 				'stories.brickimedia.org',
-				'cuusoo.brickimedia.org'
-			);
-		} elseif ( $_SERVER['HTTP_HOST'] == 'lmbw.brickimedia.org' ) {
-			$urls = array(
-				'en.brickimedia.org',
-				'customs.brickimedia.org',
-				'meta.brickimedia.org',
-				'stories.brickimedia.org',
-				'cuusoo.brickimedia.org'
+				'ideas.brickimedia.org'
 			);
 		} elseif ( $_SERVER['HTTP_HOST'] == 'stories.brickimedia.org' ) {
 			$urls = array(
 				'en.brickimedia.org',
 				'customs.brickimedia.org',
 				'meta.brickimedia.org',
-				'lmbw.brickimedia.org',
-				'cuusoo.brickimedia.org'
+				'ideas.brickimedia.org'
 			);
-		} elseif ($_SERVER['HTTP_POST'] == 'cuusoo.brickimedia.org' ) {
+		} elseif ($_SERVER['HTTP_POST'] == 'ideas.brickimedia.org' ) {
 		        $urls = array(
 		        	'en.brickimedia.org',
 		        	'customs.brickimedia.org',
 		        	'meta.brickimedia.org',
 		        	'stories.brickimedia.org',
-		        	'lmbw.brickimedia.org'
 		        );
 		}
 		$url = $urls[array_rand( $urls )];
