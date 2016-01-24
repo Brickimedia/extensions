@@ -233,3 +233,12 @@
 	path = SpamBlacklist
 
 	url = https://github.com/wikimedia/mediawiki-extensions-SpamBlacklist.git
+[submodule "QuizGame"]
+	path = QuizGame
+	url = https://github.com/wikimedia/mediawiki-extensions-QuizGame.git
+[submodule "PictureGame"]
+	path = PictureGame
+	url = https://github.com/wikimedia/mediawiki-extensions-PictureGame.git
+[submodule "PollNY"]
+	path = PollNY
+	url = https://github.com/wikimedia/mediawiki-extensions-PollNY.git
