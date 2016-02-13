@@ -242,3 +242,6 @@
 [submodule "PollNY"]
 	path = PollNY
 	url = https://github.com/wikimedia/mediawiki-extensions-PollNY.git
+[submodule "MassMessage"]
+	path = MassMessage
+	url = https://github.com/wikimedia/mediawiki-extensions-MassMessage
