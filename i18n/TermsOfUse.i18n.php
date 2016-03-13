@@ -7,7 +7,7 @@ $messages = array();
  */
 $messages['en'] = array(
 	'termsofuse' => 'Terms of Use',
-	'termsofusepage' => 'm:Special:MyLanguage/Terms of Use'
+	'termsofusepage' => '{{ns:Project}}:Terms of Use'
 );
 
 /** German (Deutsch)
