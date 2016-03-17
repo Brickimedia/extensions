@@ -245,3 +245,9 @@
 [submodule "MassMessage"]
 	path = MassMessage
 	url = https://github.com/wikimedia/mediawiki-extensions-MassMessage
+[submodule "CirrusSearch"]
+	path = CirrusSearch
+	url = https://github.com/wikimedia/mediawiki-extensions-CirrusSearch
+[submodule "Elastica"]
+	path = Elastica
+	url = https://github.com/wikimedia/mediawiki-extensions-Elastica
